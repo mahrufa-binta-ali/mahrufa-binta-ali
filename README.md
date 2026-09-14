@@ -107,34 +107,34 @@ I care about what the model actually learned, how it behaves, where it fails, an
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" />
 </p>
 
-## 🚀 Featured AI/ML Projects
+## 🚀 Featured Research Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 Spectral Geometry Embedding Analysis
+### 🌍 BioTrust-Fusion
 
-[![Focus](https://img.shields.io/badge/Focus-Embedding%20Geometry-7B68EE?style=flat-square)]()
-[![Area](https://img.shields.io/badge/Area-Representation%20Analysis-5F9EA0?style=flat-square)]()
-[![Type](https://img.shields.io/badge/Type-Model%20Diagnostics-9370DB?style=flat-square)]()
+[![Focus](https://img.shields.io/badge/Focus-Reliable%20AI-2563EB?style=flat-square)]()
+[![Area](https://img.shields.io/badge/Area-Multimodal%20Data%20Integration-7C3AED?style=flat-square)]()
+[![Topic](https://img.shields.io/badge/Topic-Foundation%20Model%20Representations-0F766E?style=flat-square)]()
 
-A diagnostic project for studying embedding-space behavior using neighborhood preservation, clustering behavior, graph connectivity, and spectral structure.
+A reliability-first framework integrating eBird, BBS, environmental covariates, and Earth-observation foundation-model representations with geographic, temporal, and uncertainty-aware evaluation.
 
-🔗 [View Repository](https://github.com/mahrufa-binta-ali/spectral-geometry-embedding-analysis)
+🔗 [View Repository](https://github.com/mahrufa-binta-ali/BioTrust-Fusion)
 
 </td>
 <td width="50%" valign="top">
 
-### 📊 FT-Transformer EHR Retrieval
+### 🩺 CXR-Text Bridge Retrieval
 
-[![Focus](https://img.shields.io/badge/Focus-Tabular%20Deep%20Learning-4169E1?style=flat-square)]()
-[![Area](https://img.shields.io/badge/Area-Retrieval%20Evaluation-00AEEF?style=flat-square)]()
-[![Data](https://img.shields.io/badge/Data-Synthetic%20EHR-20B2AA?style=flat-square)]()
+[![Focus](https://img.shields.io/badge/Focus-Multimodal%20Learning-20B2AA?style=flat-square)]()
+[![Loss](https://img.shields.io/badge/Loss-Symmetric%20InfoNCE-008B8B?style=flat-square)]()
+[![Topic](https://img.shields.io/badge/Topic-Image--Text%20Alignment-3CB371?style=flat-square)]()
 
-A controlled benchmark comparing MLP and FT-Transformer-style tabular encoders for EHR-style retrieval tasks.
+A controlled image-text contrastive retrieval study examining when cross-modal alignment forms, weakens, or fails under shifted and noisy conditions.
 
-🔗 [View Repository](https://github.com/mahrufa-binta-ali/ft-transformer-ehr-retrieval)
+🔗 [View Repository](https://github.com/mahrufa-binta-ali/cxr-text-bridge-retrieval)
 
 </td>
 </tr>
@@ -148,22 +148,22 @@ A controlled benchmark comparing MLP and FT-Transformer-style tabular encoders f
 [![Loss](https://img.shields.io/badge/Loss-InfoNCE-FF7F50?style=flat-square)]()
 [![Topic](https://img.shields.io/badge/Topic-False%20Negatives-DC143C?style=flat-square)]()
 
-An experiment studying how false negatives affect contrastive retrieval and how loss design changes model behavior.
+A controlled benchmark studying how semantic false negatives affect contrastive retrieval and when false-negative-aware loss design improves representation quality.
 
 🔗 [View Repository](https://github.com/mahrufa-binta-ali/fn-aware-contrastive-learning)
 
 </td>
 <td width="50%" valign="top">
 
-### 🔗 Propensity Matching for Multimodal Pairs
+### 🔄 Domain Adaptation DANN Retrieval
 
-[![Focus](https://img.shields.io/badge/Focus-Multimodal%20Pairing-6A5ACD?style=flat-square)]()
-[![Method](https://img.shields.io/badge/Method-Propensity%20Matching-8A2BE2?style=flat-square)]()
-[![Area](https://img.shields.io/badge/Area-Retrieval%20Evaluation-4682B4?style=flat-square)]()
+[![Focus](https://img.shields.io/badge/Focus-Domain%20Adaptation-6A5ACD?style=flat-square)]()
+[![Method](https://img.shields.io/badge/Method-DANN-8A2BE2?style=flat-square)]()
+[![Topic](https://img.shields.io/badge/Topic-Distribution%20Shift-4682B4?style=flat-square)]()
 
-A project exploring pseudo-pairing, pair quality, and matching strategies in multimodal retrieval experiments.
+A domain-adversarial retrieval study testing whether reducing source-target representation shift preserves useful nearest-neighbor structure under visual distribution shifts.
 
-🔗 [View Repository](https://github.com/mahrufa-binta-ali/propensity-matching-multimodal-pairs)
+🔗 [View Repository](https://github.com/mahrufa-binta-ali/domain-adaptation-dann-retrieval)
 
 </td>
 </tr>
@@ -171,29 +171,32 @@ A project exploring pseudo-pairing, pair quality, and matching strategies in mul
 <tr>
 <td width="50%" valign="top">
 
-### 🩺 CXR-Text Bridge Retrieval
+### 🔗 SUE Multimodal Retrieval
 
-[![Focus](https://img.shields.io/badge/Focus-Medical%20AI-20B2AA?style=flat-square)]()
-[![Area](https://img.shields.io/badge/Area-Multimodal%20Retrieval-008B8B?style=flat-square)]()
-[![Topic](https://img.shields.io/badge/Topic-Representation%20Learning-3CB371?style=flat-square)]()
+[![Focus](https://img.shields.io/badge/Focus-Weakly%20Paired%20Learning-7B68EE?style=flat-square)]()
+[![Method](https://img.shields.io/badge/Method-Spectral%20%2B%20MMD-5F9EA0?style=flat-square)]()
+[![Topic](https://img.shields.io/badge/Topic-Multimodal%20Alignment-9370DB?style=flat-square)]()
 
-A controlled medical AI-style project studying CXR-text retrieval and multimodal alignment.
+A multimodal retrieval benchmark exploring spectral geometry, sparse anchor supervision, InfoNCE, and MMD when exact cross-modal pairs are scarce.
 
-🔗 [View Repository](https://github.com/mahrufa-binta-ali/cxr-text-bridge-retrieval)
+🔗 [View Repository](https://github.com/mahrufa-binta-ali/sue-multimodal-retrieval)
 
 </td>
 <td width="50%" valign="top">
 
-### 🎬 Sumora
+### 🧠 Spectral Geometry Embedding Analysis
 
-[![Focus](https://img.shields.io/badge/Focus-Web%20Application-000000?style=flat-square)]()
-[![Stack](https://img.shields.io/badge/Stack-Next.js%20%7C%20TypeScript-111827?style=flat-square)]()
-[![Type](https://img.shields.io/badge/Type-Applied%20Software-FF1493?style=flat-square)]()
+[![Focus](https://img.shields.io/badge/Focus-Embedding%20Geometry-7B68EE?style=flat-square)]()
+[![Area](https://img.shields.io/badge/Area-Representation%20Analysis-5F9EA0?style=flat-square)]()
+[![Type](https://img.shields.io/badge/Type-Model%20Diagnostics-9370DB?style=flat-square)]()
 
-A natural-language movie discovery web application built with Next.js, TypeScript, Tailwind CSS, and movie APIs.
+A diagnostic benchmark for studying embedding-space behavior through neighborhood preservation, graph connectivity, clustering, collapse indicators, and spectral structure.
 
-🔗 [View Repository](https://github.com/mahrufa-binta-ali/sumora)
+🔗 [View Repository](https://github.com/mahrufa-binta-ali/spectral-geometry-embedding-analysis)
 
+</td>
+</tr>
+</table>
 </td>
 </tr>
 </table>
@@ -205,6 +208,18 @@ A natural-language movie discovery web application built with Next.js, TypeScrip
 </p>
 <br/>
 <div align="center">
+  
+## 🛠️ Selected Software Project
+
+### 🎬 Sumora
+
+[![Focus](https://img.shields.io/badge/Focus-Web%20Application-000000?style=flat-square)]()
+[![Stack](https://img.shields.io/badge/Stack-Next.js%20%7C%20TypeScript-111827?style=flat-square)]()
+[![Type](https://img.shields.io/badge/Type-Applied%20Software-FF1493?style=flat-square)]()
+
+A natural-language movie discovery web application built with Next.js, TypeScript, Tailwind CSS, and movie APIs.
+
+🔗 [View Repository](https://github.com/mahrufa-binta-ali/sumora)
 
 ## 📊 Evaluation Methods I Work With
 
