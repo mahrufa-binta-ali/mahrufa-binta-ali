@@ -200,14 +200,6 @@ A diagnostic benchmark for studying embedding-space behavior through neighborhoo
 </td>
 </tr>
 </table>
-
-<br/>
-
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" />
-</p>
-<br/>
-<div align="center">
   
 ## 🛠️ Selected Software Project
 
@@ -220,6 +212,15 @@ A diagnostic benchmark for studying embedding-space behavior through neighborhoo
 A natural-language movie discovery web application built with Next.js, TypeScript, Tailwind CSS, and movie APIs.
 
 🔗 [View Repository](https://github.com/mahrufa-binta-ali/sumora)
+
+<br/>
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" />
+</p>
+<br/>
+<div align="center">
+
 
 ## 📊 Evaluation Methods I Work With
 
